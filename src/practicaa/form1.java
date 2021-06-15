@@ -72,7 +72,7 @@ public class form1 extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(null,"tqm <3" );
+        JOptionPane.showMessageDialog(null,"no sirves para nada, inútil <3" );
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
